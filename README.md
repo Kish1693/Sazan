@@ -1,4 +1,2 @@
 # Sazan
-numpy
-hello
-Sunday
+first build
